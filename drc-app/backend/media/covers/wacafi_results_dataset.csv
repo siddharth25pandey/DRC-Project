@@ -1,0 +1,668 @@
+survey_date,country.name,country.code,region.name,region.code,displacement,type,.upper,.lower,scenario
+2019-03-14,Burkina Faso,BFA,Boucle du Mouhoun,BF46,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Cascades,BF47,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Centre,BF13,431,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Centre-Est,BF48,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Centre-Nord,BF49,30438,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Centre-Ouest,BF50,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Centre-Sud,BF51,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Est,BF52,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Hauts-Bassins,BF53,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Nord,BF54,5005,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Plateau-Central,BF55,0,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Sahel,BF56,79436,data,NA,NA,NA
+2019-03-14,Burkina Faso,BFA,Sud-Ouest,BF57,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Boucle du Mouhoun,BF46,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Cascades,BF47,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Centre,BF13,431,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Centre-Est,BF48,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Centre-Nord,BF49,32542,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Centre-Ouest,BF50,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Centre-Sud,BF51,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Est,BF52,2529,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Hauts-Bassins,BF53,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Nord,BF54,5078,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Plateau-Central,BF55,0,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Sahel,BF56,95009,data,NA,NA,NA
+2019-04-02,Burkina Faso,BFA,Sud-Ouest,BF57,0,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Boucle du Mouhoun,BF46,100,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Cascades,BF47,0,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Centre,BF13,431,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Centre-Est,BF48,0,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Centre-Nord,BF49,53973,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Centre-Ouest,BF50,0,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Centre-Sud,BF51,0,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Est,BF52,3158,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Hauts-Bassins,BF53,0,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Nord,BF54,5378,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Plateau-Central,BF55,0,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Sahel,BF56,107407,data,NA,NA,NA
+2019-05-11,Burkina Faso,BFA,Sud-Ouest,BF57,0,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Boucle du Mouhoun,BF46,145,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Cascades,BF47,268,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Centre-Est,BF48,129,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Centre-Nord,BF49,82660,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Centre-Ouest,BF50,636,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Centre-Sud,BF51,101,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Est,BF52,3584,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Hauts-Bassins,BF53,558,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Nord,BF54,10058,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Plateau-Central,BF55,2429,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Sahel,BF56,124689,data,NA,NA,NA
+2019-07-23,Burkina Faso,BFA,Sud-Ouest,BF57,241,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Boucle du Mouhoun,BF46,8577,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Cascades,BF47,268,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Centre-Est,BF48,145,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Centre-Nord,BF49,82660,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Centre-Ouest,BF50,636,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Centre-Sud,BF51,101,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Est,BF52,3584,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Hauts-Bassins,BF53,558,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Nord,BF54,10058,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Plateau-Central,BF55,2429,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Sahel,BF56,127477,data,NA,NA,NA
+2019-08-14,Burkina Faso,BFA,Sud-Ouest,BF57,241,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Boucle du Mouhoun,BF46,8577,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Cascades,BF47,268,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Centre-Est,BF48,145,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Centre-Nord,BF49,119798,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Centre-Ouest,BF50,636,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Centre-Sud,BF51,101,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Est,BF52,10293,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Hauts-Bassins,BF53,558,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Nord,BF54,14356,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Plateau-Central,BF55,2573,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Sahel,BF56,130736,data,NA,NA,NA
+2019-09-06,Burkina Faso,BFA,Sud-Ouest,BF57,285,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Boucle du Mouhoun,BF46,8588,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Cascades,BF47,268,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Centre-Est,BF48,145,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Centre-Nord,BF49,270476,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Centre-Ouest,BF50,635,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Centre-Sud,BF51,101,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Est,BF52,10293,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Hauts-Bassins,BF53,558,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Nord,BF54,31998,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Plateau-Central,BF55,1222,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Sahel,BF56,160741,data,NA,NA,NA
+2019-10-02,Burkina Faso,BFA,Sud-Ouest,BF57,284,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,8737,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Cascades,BF47,268,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Centre-Est,BF48,555,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Centre-Nord,BF49,270476,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Centre-Ouest,BF50,635,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Centre-Sud,BF51,1773,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Est,BF52,17484,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Hauts-Bassins,BF53,3510,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Nord,BF54,38244,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Plateau-Central,BF55,4718,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Sahel,BF56,212298,data,NA,NA,NA
+2019-12-31,Burkina Faso,BFA,Sud-Ouest,BF57,284,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Boucle du Mouhoun,BF46,10662,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Cascades,BF47,268,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Centre-Est,BF48,555,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Centre-Nord,BF49,316812,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Centre-Ouest,BF50,635,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Centre-Sud,BF51,1773,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Est,BF52,18329,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Hauts-Bassins,BF53,4011,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Nord,BF54,42396,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Plateau-Central,BF55,4718,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Sahel,BF56,212298,data,NA,NA,NA
+2020-01-27,Burkina Faso,BFA,Sud-Ouest,BF57,284,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Boucle du Mouhoun,BF46,10662,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Cascades,BF47,268,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Centre-Est,BF48,13372,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Centre-Nord,BF49,357691,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Centre-Ouest,BF50,635,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Centre-Sud,BF51,1773,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Est,BF52,18329,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Hauts-Bassins,BF53,4011,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Nord,BF54,42396,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Plateau-Central,BF55,5765,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Sahel,BF56,283046,data,NA,NA,NA
+2020-02-17,Burkina Faso,BFA,Sud-Ouest,BF57,384,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Boucle du Mouhoun,BF46,14548,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Cascades,BF47,5845,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Centre-Est,BF48,13372,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Centre-Nord,BF49,386706,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Centre-Ouest,BF50,635,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Centre-Sud,BF51,1773,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Est,BF52,18329,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Hauts-Bassins,BF53,9788,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Nord,BF54,62491,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Plateau-Central,BF55,12589,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Sahel,BF56,310059,data,NA,NA,NA
+2020-03-25,Burkina Faso,BFA,Sud-Ouest,BF57,1362,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Boucle du Mouhoun,BF46,15979,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Cascades,BF47,5845,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Centre-Est,BF48,13372,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Centre-Nord,BF49,387203,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Centre-Ouest,BF50,635,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Centre-Sud,BF51,1773,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Est,BF52,20283,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Hauts-Bassins,BF53,10357,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Nord,BF54,66659,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Plateau-Central,BF55,13034,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Sahel,BF56,310066,data,NA,NA,NA
+2020-04-22,Burkina Faso,BFA,Sud-Ouest,BF57,2072,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Boucle du Mouhoun,BF46,32036,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Cascades,BF47,5845,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Centre-Est,BF48,13387,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Centre-Nord,BF49,387203,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Centre-Ouest,BF50,4705,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Centre-Sud,BF51,1773,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Est,BF52,65348,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Hauts-Bassins,BF53,11378,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Nord,BF54,71784,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Plateau-Central,BF55,13832,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Sahel,BF56,310066,data,NA,NA,NA
+2020-06-07,Burkina Faso,BFA,Sud-Ouest,BF57,3063,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Boucle du Mouhoun,BF46,36834,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Cascades,BF47,7529,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Centre-Est,BF48,23392,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Centre-Nord,BF49,389501,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Centre-Ouest,BF50,9868,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Centre-Sud,BF51,2325,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Est,BF52,65348,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Hauts-Bassins,BF53,11394,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Nord,BF54,74114,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Plateau-Central,BF55,14460,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Sahel,BF56,344528,data,NA,NA,NA
+2020-07-09,Burkina Faso,BFA,Sud-Ouest,BF57,3563,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Boucle du Mouhoun,BF46,37015,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Cascades,BF47,7729,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Centre-Est,BF48,23392,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Centre-Nord,BF49,416136,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Centre-Sud,BF51,2325,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Est,BF52,66325,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Hauts-Bassins,BF53,11429,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Nord,BF54,74114,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Plateau-Central,BF55,14460,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Sahel,BF56,344569,data,NA,NA,NA
+2020-08-08,Burkina Faso,BFA,Sud-Ouest,BF57,3563,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44859,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Cascades,BF47,7729,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Centre-Est,BF48,23392,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Centre-Nord,BF49,422267,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Centre-Sud,BF51,2325,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Est,BF52,66452,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Hauts-Bassins,BF53,18281,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Nord,BF54,74527,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Plateau-Central,BF55,14460,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Sahel,BF56,344569,data,NA,NA,NA
+2020-09-08,Burkina Faso,BFA,Sud-Ouest,BF57,3563,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44921,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Cascades,BF47,7783,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Centre-Est,BF48,25533,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Centre-Nord,BF49,430191,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Centre-Sud,BF51,2325,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Est,BF52,68027,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Hauts-Bassins,BF53,19859,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Nord,BF54,76218,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Plateau-Central,BF55,14601,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Sahel,BF56,344569,data,NA,NA,NA
+2020-11-10,Burkina Faso,BFA,Sud-Ouest,BF57,3563,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44902,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Cascades,BF47,8098,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Centre-Est,BF48,28446,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Centre-Nord,BF49,433597,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Centre-Sud,BF51,4008,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Est,BF52,71394,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Hauts-Bassins,BF53,20571,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Nord,BF54,76953,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Plateau-Central,BF55,15199,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Sahel,BF56,352402,data,NA,NA,NA
+2020-12-31,Burkina Faso,BFA,Sud-Ouest,BF57,7246,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44899,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Cascades,BF47,8253,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Centre-Est,BF48,29142,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Centre-Nord,BF49,438557,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Centre-Sud,BF51,4008,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Est,BF52,78533,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Hauts-Bassins,BF53,20960,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Nord,BF54,84697,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Plateau-Central,BF55,15269,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Sahel,BF56,353721,data,NA,NA,NA
+2021-01-31,Burkina Faso,BFA,Sud-Ouest,BF57,7246,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44899,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Cascades,BF47,8253,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Centre-Est,BF48,29142,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Centre-Nord,BF49,445869,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Centre-Sud,BF51,4008,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Est,BF52,84827,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Hauts-Bassins,BF53,21221,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Nord,BF54,92826,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Plateau-Central,BF55,15583,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Sahel,BF56,355909,data,NA,NA,NA
+2021-02-28,Burkina Faso,BFA,Sud-Ouest,BF57,7246,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44913,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Cascades,BF47,8629,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Centre-Est,BF48,30888,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Centre-Nord,BF49,462690,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Centre-Sud,BF51,4024,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Est,BF52,89889,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Hauts-Bassins,BF53,21609,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Nord,BF54,100254,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Plateau-Central,BF55,16408,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Sahel,BF56,347159,data,NA,NA,NA
+2021-03-31,Burkina Faso,BFA,Sud-Ouest,BF57,9054,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44913,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Cascades,BF47,9875,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Centre,BF13,1051,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Centre-Est,BF48,31258,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Centre-Nord,BF49,467738,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Centre-Ouest,BF50,11126,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Centre-Sud,BF51,4024,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Est,BF52,96223,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Hauts-Bassins,BF53,21836,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Nord,BF54,102295,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Plateau-Central,BF55,16570,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Sahel,BF56,402786,data,NA,NA,NA
+2021-04-30,Burkina Faso,BFA,Sud-Ouest,BF57,9059,data,NA,NA,NA
+2019-01-30,Mali,MLI,Bamako,ML09,3023,data,NA,NA,NA
+2019-01-30,Mali,MLI,Gao,ML07,33602,data,NA,NA,NA
+2019-01-30,Mali,MLI,Kayes,ML01,626,data,NA,NA,NA
+2019-01-30,Mali,MLI,Kidal,ML08,313,data,NA,NA,NA
+2019-01-30,Mali,MLI,Koulikoro,ML02,1162,data,NA,NA,NA
+2019-01-30,Mali,MLI,Mopti,ML05,56495,data,NA,NA,NA
+2019-01-30,Mali,MLI,Ségou,ML04,7726,data,NA,NA,NA
+2019-01-30,Mali,MLI,Sikasso,ML03,103,data,NA,NA,NA
+2019-01-30,Mali,MLI,Tombouctou,ML06,20524,data,NA,NA,NA
+2019-02-28,Mali,MLI,Bamako,ML09,916,data,NA,NA,NA
+2019-02-28,Mali,MLI,Gao,ML07,21285,data,NA,NA,NA
+2019-02-28,Mali,MLI,Kayes,ML01,1269,data,NA,NA,NA
+2019-02-28,Mali,MLI,Kidal,ML08,874,data,NA,NA,NA
+2019-02-28,Mali,MLI,Koulikoro,ML02,1448,data,NA,NA,NA
+2019-02-28,Mali,MLI,Mopti,ML05,31590,data,NA,NA,NA
+2019-02-28,Mali,MLI,Ségou,ML04,14284,data,NA,NA,NA
+2019-02-28,Mali,MLI,Sikasso,ML03,551,data,NA,NA,NA
+2019-02-28,Mali,MLI,Tombouctou,ML06,12068,data,NA,NA,NA
+2019-03-31,Mali,MLI,Bamako,ML09,916,data,NA,NA,NA
+2019-03-31,Mali,MLI,Gao,ML07,21285,data,NA,NA,NA
+2019-03-31,Mali,MLI,Kayes,ML01,1269,data,NA,NA,NA
+2019-03-31,Mali,MLI,Kidal,ML08,874,data,NA,NA,NA
+2019-03-31,Mali,MLI,Koulikoro,ML02,1527,data,NA,NA,NA
+2019-03-31,Mali,MLI,Mopti,ML05,45450,data,NA,NA,NA
+2019-03-31,Mali,MLI,Ségou,ML04,15099,data,NA,NA,NA
+2019-03-31,Mali,MLI,Sikasso,ML03,551,data,NA,NA,NA
+2019-03-31,Mali,MLI,Tombouctou,ML06,12068,data,NA,NA,NA
+2019-04-30,Mali,MLI,Bamako,ML09,916,data,NA,NA,NA
+2019-04-30,Mali,MLI,Gao,ML07,24033,data,NA,NA,NA
+2019-04-30,Mali,MLI,Kayes,ML01,1269,data,NA,NA,NA
+2019-04-30,Mali,MLI,Kidal,ML08,874,data,NA,NA,NA
+2019-04-30,Mali,MLI,Koulikoro,ML02,1527,data,NA,NA,NA
+2019-04-30,Mali,MLI,Mopti,ML05,46660,data,NA,NA,NA
+2019-04-30,Mali,MLI,Ségou,ML04,15201,data,NA,NA,NA
+2019-04-30,Mali,MLI,Sikasso,ML03,551,data,NA,NA,NA
+2019-04-30,Mali,MLI,Tombouctou,ML06,15133,data,NA,NA,NA
+2019-05-30,Mali,MLI,Bamako,ML09,1019,data,NA,NA,NA
+2019-05-30,Mali,MLI,Gao,ML07,29797,data,NA,NA,NA
+2019-05-30,Mali,MLI,Kayes,ML01,1050,data,NA,NA,NA
+2019-05-30,Mali,MLI,Kidal,ML08,874,data,NA,NA,NA
+2019-05-30,Mali,MLI,Koulikoro,ML02,1725,data,NA,NA,NA
+2019-05-30,Mali,MLI,Mopti,ML05,49426,data,NA,NA,NA
+2019-05-30,Mali,MLI,Ségou,ML04,19901,data,NA,NA,NA
+2019-05-30,Mali,MLI,Sikasso,ML03,560,data,NA,NA,NA
+2019-05-30,Mali,MLI,Tombouctou,ML06,15715,data,NA,NA,NA
+2019-06-30,Mali,MLI,Bamako,ML09,1819,data,NA,NA,NA
+2019-06-30,Mali,MLI,Gao,ML07,38970,data,NA,NA,NA
+2019-06-30,Mali,MLI,Kayes,ML01,1050,data,NA,NA,NA
+2019-06-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2019-06-30,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2019-06-30,Mali,MLI,Mopti,ML05,50643,data,NA,NA,NA
+2019-06-30,Mali,MLI,Ségou,ML04,21589,data,NA,NA,NA
+2019-06-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2019-06-30,Mali,MLI,Tombouctou,ML06,28271,data,NA,NA,NA
+2019-07-30,Mali,MLI,Bamako,ML09,1884,data,NA,NA,NA
+2019-07-30,Mali,MLI,Gao,ML07,51891,data,NA,NA,NA
+2019-07-30,Mali,MLI,Kayes,ML01,1050,data,NA,NA,NA
+2019-07-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2019-07-30,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2019-07-30,Mali,MLI,Mopti,ML05,57994,data,NA,NA,NA
+2019-07-30,Mali,MLI,Ségou,ML04,21906,data,NA,NA,NA
+2019-07-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2019-07-30,Mali,MLI,Tombouctou,ML06,28271,data,NA,NA,NA
+2019-08-31,Mali,MLI,Bamako,ML09,1884,data,NA,NA,NA
+2019-08-31,Mali,MLI,Gao,ML07,51891,data,NA,NA,NA
+2019-08-31,Mali,MLI,Kayes,ML01,1050,data,NA,NA,NA
+2019-08-31,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2019-08-31,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2019-08-31,Mali,MLI,Mopti,ML05,60916,data,NA,NA,NA
+2019-08-31,Mali,MLI,Ségou,ML04,21906,data,NA,NA,NA
+2019-08-31,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2019-08-31,Mali,MLI,Tombouctou,ML06,28271,data,NA,NA,NA
+2019-09-30,Mali,MLI,Bamako,ML09,2350,data,NA,NA,NA
+2019-09-30,Mali,MLI,Gao,ML07,69810,data,NA,NA,NA
+2019-09-30,Mali,MLI,Kayes,ML01,1445,data,NA,NA,NA
+2019-09-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2019-09-30,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2019-09-30,Mali,MLI,Mopti,ML05,61083,data,NA,NA,NA
+2019-09-30,Mali,MLI,Ségou,ML04,24291,data,NA,NA,NA
+2019-09-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2019-09-30,Mali,MLI,Tombouctou,ML06,22641,data,NA,NA,NA
+2019-10-30,Mali,MLI,Bamako,ML09,2350,data,NA,NA,NA
+2019-10-30,Mali,MLI,Gao,ML07,73460,data,NA,NA,NA
+2019-10-30,Mali,MLI,Kayes,ML01,1445,data,NA,NA,NA
+2019-10-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2019-10-30,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2019-10-30,Mali,MLI,Mopti,ML05,69679,data,NA,NA,NA
+2019-10-30,Mali,MLI,Ségou,ML04,24291,data,NA,NA,NA
+2019-10-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2019-10-30,Mali,MLI,Tombouctou,ML06,22641,data,NA,NA,NA
+2019-11-30,Mali,MLI,Bamako,ML09,2350,data,NA,NA,NA
+2019-11-30,Mali,MLI,Gao,ML07,73460,data,NA,NA,NA
+2019-11-30,Mali,MLI,Kayes,ML01,1445,data,NA,NA,NA
+2019-11-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2019-11-30,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2019-11-30,Mali,MLI,Mopti,ML05,71723,data,NA,NA,NA
+2019-11-30,Mali,MLI,Ségou,ML04,24291,data,NA,NA,NA
+2019-11-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2019-11-30,Mali,MLI,Tombouctou,ML06,22641,data,NA,NA,NA
+2019-12-31,Mali,MLI,Bamako,ML09,2350,data,NA,NA,NA
+2019-12-31,Mali,MLI,Gao,ML07,75798,data,NA,NA,NA
+2019-12-31,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2019-12-31,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2019-12-31,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2019-12-31,Mali,MLI,Mopti,ML05,75528,data,NA,NA,NA
+2019-12-31,Mali,MLI,Ségou,ML04,24291,data,NA,NA,NA
+2019-12-31,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2019-12-31,Mali,MLI,Tombouctou,ML06,22641,data,NA,NA,NA
+2020-01-31,Mali,MLI,Bamako,ML09,2350,data,NA,NA,NA
+2020-01-31,Mali,MLI,Gao,ML07,75798,data,NA,NA,NA
+2020-01-31,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2020-01-31,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-01-31,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2020-01-31,Mali,MLI,Mopti,ML05,84416,data,NA,NA,NA
+2020-01-31,Mali,MLI,Ségou,ML04,24291,data,NA,NA,NA
+2020-01-31,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2020-01-31,Mali,MLI,Tombouctou,ML06,22641,data,NA,NA,NA
+2020-02-28,Mali,MLI,Bamako,ML09,2350,data,NA,NA,NA
+2020-02-28,Mali,MLI,Gao,ML07,75798,data,NA,NA,NA
+2020-02-28,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2020-02-28,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-02-28,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2020-02-28,Mali,MLI,Mopti,ML05,86313,data,NA,NA,NA
+2020-02-28,Mali,MLI,Ségou,ML04,24291,data,NA,NA,NA
+2020-02-28,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2020-02-28,Mali,MLI,Tombouctou,ML06,22641,data,NA,NA,NA
+2020-03-31,Mali,MLI,Bamako,ML09,2350,data,NA,NA,NA
+2020-03-31,Mali,MLI,Gao,ML07,75798,data,NA,NA,NA
+2020-03-31,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2020-03-31,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-03-31,Mali,MLI,Koulikoro,ML02,2031,data,NA,NA,NA
+2020-03-31,Mali,MLI,Mopti,ML05,99598,data,NA,NA,NA
+2020-03-31,Mali,MLI,Ségou,ML04,24291,data,NA,NA,NA
+2020-03-31,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2020-03-31,Mali,MLI,Tombouctou,ML06,30304,data,NA,NA,NA
+2020-04-30,Mali,MLI,Bamako,ML09,2691,data,NA,NA,NA
+2020-04-30,Mali,MLI,Gao,ML07,83624,data,NA,NA,NA
+2020-04-30,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2020-04-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-04-30,Mali,MLI,Koulikoro,ML02,1985,data,NA,NA,NA
+2020-04-30,Mali,MLI,Mopti,ML05,102481,data,NA,NA,NA
+2020-04-30,Mali,MLI,Ségou,ML04,23624,data,NA,NA,NA
+2020-04-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2020-04-30,Mali,MLI,Tombouctou,ML06,31481,data,NA,NA,NA
+2020-05-30,Mali,MLI,Bamako,ML09,3107,data,NA,NA,NA
+2020-05-30,Mali,MLI,Gao,ML07,84334,data,NA,NA,NA
+2020-05-30,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2020-05-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-05-30,Mali,MLI,Koulikoro,ML02,1985,data,NA,NA,NA
+2020-05-30,Mali,MLI,Mopti,ML05,102132,data,NA,NA,NA
+2020-05-30,Mali,MLI,Ségou,ML04,23624,data,NA,NA,NA
+2020-05-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2020-05-30,Mali,MLI,Tombouctou,ML06,37723,data,NA,NA,NA
+2020-06-30,Mali,MLI,Bamako,ML09,3107,data,NA,NA,NA
+2020-06-30,Mali,MLI,Gao,ML07,85944,data,NA,NA,NA
+2020-06-30,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2020-06-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-06-30,Mali,MLI,Koulikoro,ML02,1985,data,NA,NA,NA
+2020-06-30,Mali,MLI,Mopti,ML05,102430,data,NA,NA,NA
+2020-06-30,Mali,MLI,Ségou,ML04,23624,data,NA,NA,NA
+2020-06-30,Mali,MLI,Sikasso,ML03,2598,data,NA,NA,NA
+2020-06-30,Mali,MLI,Tombouctou,ML06,44629,data,NA,NA,NA
+2020-07-30,Mali,MLI,Bamako,ML09,3107,data,NA,NA,NA
+2020-07-30,Mali,MLI,Gao,ML07,87574,data,NA,NA,NA
+2020-07-30,Mali,MLI,Kayes,ML01,1624,data,NA,NA,NA
+2020-07-30,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-07-30,Mali,MLI,Koulikoro,ML02,2195,data,NA,NA,NA
+2020-07-30,Mali,MLI,Mopti,ML05,113043,data,NA,NA,NA
+2020-07-30,Mali,MLI,Ségou,ML04,29146,data,NA,NA,NA
+2020-07-30,Mali,MLI,Sikasso,ML03,6300,data,NA,NA,NA
+2020-07-30,Mali,MLI,Tombouctou,ML06,43617,data,NA,NA,NA
+2020-10-31,Mali,MLI,Bamako,ML09,4102,data,NA,NA,NA
+2020-10-31,Mali,MLI,Gao,ML07,84459,data,NA,NA,NA
+2020-10-31,Mali,MLI,Kayes,ML01,2586,data,NA,NA,NA
+2020-10-31,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-10-31,Mali,MLI,Koulikoro,ML02,3553,data,NA,NA,NA
+2020-10-31,Mali,MLI,Mopti,ML05,131150,data,NA,NA,NA
+2020-10-31,Mali,MLI,Ségou,ML04,35336,data,NA,NA,NA
+2020-10-31,Mali,MLI,Sikasso,ML03,5937,data,NA,NA,NA
+2020-10-31,Mali,MLI,Tombouctou,ML06,43180,data,NA,NA,NA
+2020-12-31,Mali,MLI,Bamako,ML09,4133,data,NA,NA,NA
+2020-12-31,Mali,MLI,Gao,ML07,92413,data,NA,NA,NA
+2020-12-31,Mali,MLI,Kayes,ML01,2574,data,NA,NA,NA
+2020-12-31,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2020-12-31,Mali,MLI,Koulikoro,ML02,3140,data,NA,NA,NA
+2020-12-31,Mali,MLI,Mopti,ML05,137845,data,NA,NA,NA
+2020-12-31,Mali,MLI,Ségou,ML04,38118,data,NA,NA,NA
+2020-12-31,Mali,MLI,Sikasso,ML03,5833,data,NA,NA,NA
+2020-12-31,Mali,MLI,Tombouctou,ML06,48011,data,NA,NA,NA
+2021-01-31,Mali,MLI,Bamako,ML09,4141,data,NA,NA,NA
+2021-01-31,Mali,MLI,Gao,ML07,92413,data,NA,NA,NA
+2021-01-31,Mali,MLI,Kayes,ML01,2574,data,NA,NA,NA
+2021-01-31,Mali,MLI,Kidal,ML08,890,data,NA,NA,NA
+2021-01-31,Mali,MLI,Koulikoro,ML02,3140,data,NA,NA,NA
+2021-01-31,Mali,MLI,Mopti,ML05,144899,data,NA,NA,NA
+2021-01-31,Mali,MLI,Ségou,ML04,39461,data,NA,NA,NA
+2021-01-31,Mali,MLI,Sikasso,ML03,5802,data,NA,NA,NA
+2021-01-31,Mali,MLI,Tombouctou,ML06,53543,data,NA,NA,NA
+2021-04-30,Mali,MLI,Bamako,ML09,4235,data,NA,NA,NA
+2021-04-30,Mali,MLI,Gao,ML07,106071,data,NA,NA,NA
+2021-04-30,Mali,MLI,Kayes,ML01,2676,data,NA,NA,NA
+2021-04-30,Mali,MLI,Kidal,ML08,3693,data,NA,NA,NA
+2021-04-30,Mali,MLI,Koulikoro,ML02,3230,data,NA,NA,NA
+2021-04-30,Mali,MLI,Mopti,ML05,155534,data,NA,NA,NA
+2021-04-30,Mali,MLI,Ségou,ML04,34475,data,NA,NA,NA
+2021-04-30,Mali,MLI,Sikasso,ML03,5833,data,NA,NA,NA
+2021-04-30,Mali,MLI,Tombouctou,ML06,56519,data,NA,NA,NA
+2019-02-28,Niger,NER,Tillaberi,NER006,44540,data,NA,NA,NA
+2019-03-31,Niger,NER,Tillaberi,NER006,49078,data,NA,NA,NA
+2019-05-31,Niger,NER,Tillaberi,NER006,53532,data,NA,NA,NA
+2019-07-31,Niger,NER,Tillaberi,NER006,54938,data,NA,NA,NA
+2019-09-30,Niger,NER,Tillaberi,NER006,55195,data,NA,NA,NA
+2019-12-31,Niger,NER,Tillaberi,NER006,57742,data,NA,NA,NA
+2020-01-31,Niger,NER,Tillaberi,NER006,57742,data,NA,NA,NA
+2020-02-14,Niger,NER,Tillaberi,NER006,59170,data,NA,NA,NA
+2020-03-17,Niger,NER,Tillaberi,NER006,71368,data,NA,NA,NA
+2020-03-31,Niger,NER,Tillaberi,NER006,71368,data,NA,NA,NA
+2020-04-30,Niger,NER,Tillaberi,NER006,74633,data,NA,NA,NA
+2020-05-31,Niger,NER,Tillaberi,NER006,84155,data,NA,NA,NA
+2020-06-30,Niger,NER,Tillaberi,NER006,84155,data,NA,NA,NA
+2020-07-31,Niger,NER,Tillaberi,NER006,84155,data,NA,NA,NA
+2020-08-31,Niger,NER,Tillaberi,NER006,84155,data,NA,NA,NA
+2020-09-30,Niger,NER,Tillaberi,NER006,85138,data,NA,NA,NA
+2020-10-31,Niger,NER,Tillaberi,NER006,81482,data,NA,NA,NA
+2020-11-30,Niger,NER,Tillaberi,NER006,82604,data,NA,NA,NA
+2020-12-31,Niger,NER,Tillaberi,NER006,82604,data,NA,NA,NA
+2021-01-31,Niger,NER,Tillaberi,NER006,82604,data,NA,NA,NA
+2021-04-30,Niger,NER,Tillaberi,NER006,82604,data,NA,NA,NA
+2019-02-28,Niger,NER,Tahoua,NER005,18131,data,NA,NA,NA
+2019-03-31,Niger,NER,Tahoua,NER005,21227,data,NA,NA,NA
+2019-05-31,Niger,NER,Tahoua,NER005,23102,data,NA,NA,NA
+2019-07-31,Niger,NER,Tahoua,NER005,23102,data,NA,NA,NA
+2019-09-30,Niger,NER,Tahoua,NER005,23684,data,NA,NA,NA
+2019-12-31,Niger,NER,Tahoua,NER005,23102,data,NA,NA,NA
+2020-01-31,Niger,NER,Tahoua,NER005,23102,data,NA,NA,NA
+2020-02-14,Niger,NER,Tahoua,NER005,23319,data,NA,NA,NA
+2020-03-17,Niger,NER,Tahoua,NER005,25729,data,NA,NA,NA
+2020-03-31,Niger,NER,Tahoua,NER005,25729,data,NA,NA,NA
+2020-04-30,Niger,NER,Tahoua,NER005,34308,data,NA,NA,NA
+2020-05-31,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2020-06-30,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2020-07-31,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2020-08-31,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2020-09-30,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2020-10-31,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2020-11-30,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2020-12-31,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2021-01-31,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2021-04-30,Niger,NER,Tahoua,NER005,55625,data,NA,NA,NA
+2021-07-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,45787.5,projection,3405.500000000002,-862.5,1
+2021-07-31,Burkina Faso,BFA,Cascades,BF47,9875,projection,864.2000000000003,0,1
+2021-07-31,Burkina Faso,BFA,Centre-Est,BF48,32063.5,projection,3257.100000000002,-805.5,1
+2021-07-31,Burkina Faso,BFA,Centre-Nord,BF49,475768,projection,20534.600000000002,-6779.4,1
+2021-07-31,Burkina Faso,BFA,Centre-Ouest,BF50,11126,projection,852.6000000000008,0,1
+2021-07-31,Burkina Faso,BFA,Centre-Sud,BF51,4024,projection,574.2000000000003,0,1
+2021-07-31,Burkina Faso,BFA,Est,BF52,109969.5,projection,33914.90000000002,-11390.099999999999,1
+2021-07-31,Burkina Faso,BFA,Hauts-Bassins,BF53,21836,projection,228.20000000000027,0,1
+2021-07-31,Burkina Faso,BFA,Nord,BF54,106243,projection,10362.400000000001,-3491.3999999999996,1
+2021-07-31,Burkina Faso,BFA,Plateau-Central,BF55,16636,projection,1546.4000000000005,-66,1
+2021-07-31,Burkina Faso,BFA,Sahel,BF56,431755.5,projection,73000.90000000002,-24126.3,1
+2021-07-31,Burkina Faso,BFA,Sud-Ouest,BF57,9059,projection,441.2000000000003,0,1
+2021-07-31,Mali,MLI,Gao,ML07,107859,projection,11871,-1788,1
+2021-07-31,Mali,MLI,Kayes,ML01,2676,projection,1411.4000000000005,0,1
+2021-07-31,Mali,MLI,Kidal,ML08,3693,projection,127.20000000000027,0,1
+2021-07-31,Mali,MLI,Koulikoro,ML02,3230,projection,812,0,1
+2021-07-31,Mali,MLI,Mopti,ML05,159316.5,projection,13064.900000000001,-3659.7,1
+2021-07-31,Mali,MLI,Ségou,ML04,35087.5,projection,5289.700000000001,-612.5,1
+2021-07-31,Mali,MLI,Sikasso,ML03,5833,projection,1221.6000000000008,0,1
+2021-07-31,Mali,MLI,Tombouctou,ML06,56598.5,projection,5596.500000000004,-79.5,1
+2021-07-31,Niger,NER,Tillaberi,NER006,86893.5,projection,13963.100000000002,-3986.1,1
+2021-07-31,Niger,NER,Tahoua,NER005,58982.5,projection,13484.900000000016,-3304.8999999999996,1
+2021-06-30,Burkina Faso,BFA,Boucle du Mouhoun,BF46,45534.5,projection,3220.900000000002,-621.5,1
+2021-06-30,Burkina Faso,BFA,Cascades,BF47,9875,projection,904.0000000000014,0,1
+2021-06-30,Burkina Faso,BFA,Centre-Est,BF48,31950,projection,3083.600000000001,-692,1
+2021-06-30,Burkina Faso,BFA,Centre-Nord,BF49,474793.5,projection,17063.500000000004,-6105.7,1
+2021-06-30,Burkina Faso,BFA,Centre-Ouest,BF50,11126,projection,546.2000000000003,0,1
+2021-06-30,Burkina Faso,BFA,Centre-Sud,BF51,4024,projection,275.40000000000055,0,1
+2021-06-30,Burkina Faso,BFA,Est,BF52,110847.5,projection,37529.30000000001,-12553.1,1
+2021-06-30,Burkina Faso,BFA,Hauts-Bassins,BF53,21836,projection,294,0,1
+2021-06-30,Burkina Faso,BFA,Nord,BF54,105551.5,projection,9269.900000000005,-2887.8999999999996,1
+2021-06-30,Burkina Faso,BFA,Plateau-Central,BF55,16570,projection,1303.6000000000008,0,1
+2021-06-30,Burkina Faso,BFA,Sahel,BF56,427465.5,projection,60237.50000000003,-20496.7,1
+2021-06-30,Burkina Faso,BFA,Sud-Ouest,BF57,9059,projection,572.2000000000003,0,1
+2021-06-30,Mali,MLI,Gao,ML07,107767.5,projection,11825.500000000007,-1696.5,1
+2021-06-30,Mali,MLI,Kayes,ML01,2676,projection,1301.800000000001,0,1
+2021-06-30,Mali,MLI,Kidal,ML08,3693,projection,0,0,1
+2021-06-30,Mali,MLI,Koulikoro,ML02,3230,projection,538,0,1
+2021-06-30,Mali,MLI,Mopti,ML05,159006.5,projection,12156.500000000007,-3389.5,1
+2021-06-30,Mali,MLI,Ségou,ML04,34508,projection,4031.0000000000055,-33,1
+2021-06-30,Mali,MLI,Sikasso,ML03,5833,projection,1436.400000000002,0,1
+2021-06-30,Mali,MLI,Tombouctou,ML06,56556.5,projection,5447.7000000000035,-37.5,1
+2021-06-30,Niger,NER,Tillaberi,NER006,86485,projection,13685.400000000001,-3718.2,1
+2021-06-30,Niger,NER,Tahoua,NER005,57435,projection,9163.800000000012,-1810,1
+2021-05-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,45530.5,projection,3333.5000000000055,-617.5,1
+2021-05-31,Burkina Faso,BFA,Cascades,BF47,9875,projection,809.4000000000005,0,1
+2021-05-31,Burkina Faso,BFA,Centre-Est,BF48,31359,projection,2135.2000000000003,-101,1
+2021-05-31,Burkina Faso,BFA,Centre-Nord,BF49,473365,projection,15113.200000000004,-5003.4,1
+2021-05-31,Burkina Faso,BFA,Centre-Ouest,BF50,11126,projection,602.8000000000011,0,1
+2021-05-31,Burkina Faso,BFA,Centre-Sud,BF51,4024,projection,164.20000000000027,0,1
+2021-05-31,Burkina Faso,BFA,Est,BF52,104721.5,projection,22427.100000000006,-7322.5,1
+2021-05-31,Burkina Faso,BFA,Hauts-Bassins,BF53,21836,projection,188.20000000000027,0,1
+2021-05-31,Burkina Faso,BFA,Nord,BF54,104913.5,projection,8635.100000000004,-2477.5,1
+2021-05-31,Burkina Faso,BFA,Plateau-Central,BF55,16570,projection,933.2000000000003,0,1
+2021-05-31,Burkina Faso,BFA,Sahel,BF56,421756,projection,46122.00000000001,-15937,1
+2021-05-31,Burkina Faso,BFA,Sud-Ouest,BF57,9059,projection,436.2000000000003,0,1
+2021-05-31,Mali,MLI,Gao,ML07,107064,projection,10187.400000000009,-993,1
+2021-05-31,Mali,MLI,Kayes,ML01,2676,projection,1422.4000000000005,0,1
+2021-05-31,Mali,MLI,Kidal,ML08,3693,projection,0,0,1
+2021-05-31,Mali,MLI,Koulikoro,ML02,3230,projection,195.20000000000027,0,1
+2021-05-31,Mali,MLI,Mopti,ML05,158120,projection,9577.400000000003,-2586,1
+2021-05-31,Mali,MLI,Ségou,ML04,34475,projection,4003.8000000000025,0,1
+2021-05-31,Mali,MLI,Sikasso,ML03,5833,projection,585,0,1
+2021-05-31,Mali,MLI,Tombouctou,ML06,56519,projection,3075.4000000000005,0,1
+2021-05-31,Niger,NER,Tillaberi,NER006,86301,projection,12543.400000000009,-3629.2,1
+2021-05-31,Niger,NER,Tahoua,NER005,57532,projection,11325.00000000001,-1907,1
+2021-07-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44951.5,projection,1617.9000000000005,-38.5,2
+2021-07-31,Burkina Faso,BFA,Cascades,BF47,9875,projection,842.2000000000003,0,2
+2021-07-31,Burkina Faso,BFA,Centre-Est,BF48,31791,projection,2711.800000000001,-533,2
+2021-07-31,Burkina Faso,BFA,Centre-Nord,BF49,471399,projection,10267.2,-3318,2
+2021-07-31,Burkina Faso,BFA,Centre-Ouest,BF50,11126,projection,161.20000000000027,0,2
+2021-07-31,Burkina Faso,BFA,Centre-Sud,BF51,4024,projection,8,0,2
+2021-07-31,Burkina Faso,BFA,Est,BF52,104174,projection,19367.600000000006,-6717.799999999999,2
+2021-07-31,Burkina Faso,BFA,Hauts-Bassins,BF53,21836,projection,313,0,2
+2021-07-31,Burkina Faso,BFA,Nord,BF54,104139.5,projection,5891.100000000001,-1764.6999999999998,2
+2021-07-31,Burkina Faso,BFA,Plateau-Central,BF55,16570,projection,466.2000000000003,0,2
+2021-07-31,Burkina Faso,BFA,Sahel,BF56,416702.5,projection,33565.9,-12051.5,2
+2021-07-31,Burkina Faso,BFA,Sud-Ouest,BF57,9059,projection,113.60000000000082,0,2
+2021-07-31,Mali,MLI,Gao,ML07,107780.5,projection,12213.500000000005,-1709.5,2
+2021-07-31,Mali,MLI,Kayes,ML01,2676,projection,301,0,2
+2021-07-31,Mali,MLI,Kidal,ML08,3693,projection,554.4000000000005,0,2
+2021-07-31,Mali,MLI,Koulikoro,ML02,3230,projection,14.200000000000273,0,2
+2021-07-31,Mali,MLI,Mopti,ML05,159398.5,projection,12943.900000000001,-3787.7,2
+2021-07-31,Mali,MLI,Ségou,ML04,34566,projection,3586.800000000005,-91,2
+2021-07-31,Mali,MLI,Sikasso,ML03,5833,projection,1035.2000000000003,0,2
+2021-07-31,Mali,MLI,Tombouctou,ML06,56547,projection,6214.400000000005,-28,2
+2021-07-31,Niger,NER,Tillaberi,NER006,87847,projection,17860.600000000002,-4827.5999999999995,2
+2021-07-31,Niger,NER,Tahoua,NER005,58685,projection,13365,-3022.2,2
+2021-06-30,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44913,projection,1340.2000000000003,0,2
+2021-06-30,Burkina Faso,BFA,Cascades,BF47,9875,projection,569.6000000000008,0,2
+2021-06-30,Burkina Faso,BFA,Centre-Est,BF48,31582,projection,2583.2000000000016,-324,2
+2021-06-30,Burkina Faso,BFA,Centre-Nord,BF49,470301,projection,8715.400000000003,-2469,2
+2021-06-30,Burkina Faso,BFA,Centre-Ouest,BF50,11126,projection,183.20000000000027,0,2
+2021-06-30,Burkina Faso,BFA,Centre-Sud,BF51,4024,projection,11,0,2
+2021-06-30,Burkina Faso,BFA,Est,BF52,102222,projection,15896.200000000004,-5235.2,2
+2021-06-30,Burkina Faso,BFA,Hauts-Bassins,BF53,21836,projection,252,0,2
+2021-06-30,Burkina Faso,BFA,Nord,BF54,103744,projection,5495.800000000003,-1437,2
+2021-06-30,Burkina Faso,BFA,Plateau-Central,BF55,16570,projection,286.2000000000003,0,2
+2021-06-30,Burkina Faso,BFA,Sahel,BF56,413737.5,projection,26405.700000000033,-9565.699999999999,2
+2021-06-30,Burkina Faso,BFA,Sud-Ouest,BF57,9059,projection,134,0,2
+2021-06-30,Mali,MLI,Gao,ML07,106759,projection,8568.800000000005,-688,2
+2021-06-30,Mali,MLI,Kayes,ML01,2676,projection,0,0,2
+2021-06-30,Mali,MLI,Kidal,ML08,3693,projection,0,0,2
+2021-06-30,Mali,MLI,Koulikoro,ML02,3230,projection,59,0,2
+2021-06-30,Mali,MLI,Mopti,ML05,158092.5,projection,9467.900000000003,-2558.5,2
+2021-06-30,Mali,MLI,Ségou,ML04,34475,projection,2732.2000000000003,0,2
+2021-06-30,Mali,MLI,Sikasso,ML03,5833,projection,683.4000000000005,0,2
+2021-06-30,Mali,MLI,Tombouctou,ML06,56519,projection,3086.2000000000003,0,2
+2021-06-30,Niger,NER,Tillaberi,NER006,87260,projection,17234.400000000005,-4339,2
+2021-06-30,Niger,NER,Tahoua,NER005,58250,projection,11556.00000000001,-2625,2
+2021-05-31,Burkina Faso,BFA,Boucle du Mouhoun,BF46,44913,projection,928,0,2
+2021-05-31,Burkina Faso,BFA,Cascades,BF47,9875,projection,43.20000000000027,0,2
+2021-05-31,Burkina Faso,BFA,Centre-Est,BF48,31258,projection,1655.0000000000014,0,2
+2021-05-31,Burkina Faso,BFA,Centre-Nord,BF49,468529,projection,5667.600000000006,-791,2
+2021-05-31,Burkina Faso,BFA,Centre-Ouest,BF50,11126,projection,42,0,2
+2021-05-31,Burkina Faso,BFA,Centre-Sud,BF51,4024,projection,1,0,2
+2021-05-31,Burkina Faso,BFA,Est,BF52,101426.5,projection,14767.300000000007,-4711.7,2
+2021-05-31,Burkina Faso,BFA,Hauts-Bassins,BF53,21836,projection,150,0,2
+2021-05-31,Burkina Faso,BFA,Nord,BF54,102481.5,projection,3082.300000000004,-186.5,2
+2021-05-31,Burkina Faso,BFA,Plateau-Central,BF55,16570,projection,215.20000000000027,0,2
+2021-05-31,Burkina Faso,BFA,Sahel,BF56,410808,projection,20345.600000000028,-7293.2,2
+2021-05-31,Burkina Faso,BFA,Sud-Ouest,BF57,9059,projection,62.20000000000027,0,2
+2021-05-31,Mali,MLI,Gao,ML07,106071,projection,3631.2000000000003,0,2
+2021-05-31,Mali,MLI,Kayes,ML01,2676,projection,1,0,2
+2021-05-31,Mali,MLI,Kidal,ML08,3693,projection,0.20000000000027285,0,2
+2021-05-31,Mali,MLI,Koulikoro,ML02,3230,projection,39,0,2
+2021-05-31,Mali,MLI,Mopti,ML05,157662.5,projection,10636.500000000002,-2128.5,2
+2021-05-31,Mali,MLI,Ségou,ML04,34475,projection,2270.2000000000003,0,2
+2021-05-31,Mali,MLI,Sikasso,ML03,5833,projection,102.20000000000027,0,2
+2021-05-31,Mali,MLI,Tombouctou,ML06,56519,projection,2753.800000000001,0,2
+2021-05-31,Niger,NER,Tillaberi,NER006,82604,projection,1136.800000000001,0,2
+2021-05-31,Niger,NER,Tahoua,NER005,55625,projection,1830.200000000003,0,2
